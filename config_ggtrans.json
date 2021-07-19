@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "vi-thesaurus-1593169669588",
+    "private_key_id": "204fe9aa11561d20171db5edbeb28c0371c82575",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdrAG00tvDM+1F\ne3BpiWZFHaZjnUJOz6XMoQ5zQcYoHGNLm+IqllAtY6TXnuEAYdJTej7LM3FWtlKz\n6WmQvEYqFGFgIR7xzHgZPLzq8beqTgZK13GsbJW2hUDKr9aSH8TynUwB+EMdKI3R\nB5i5YIVAR5n5Y+jyq7y1lyyVHCN7waPgkAjnst+EC6Qv/sjXWLiQ3fTs4XBhRl7d\nKKFb1Nb86S2VHhYNI7jMDcQHxe74JOFYb0shjex5SNwIzELotLXYPtcpVjBPPmPy\nDtPgKHwJ8gGssnevEVIuf9rhG0sS/Xis0EoZPD/kP0G89O9i/ObyEGvQ0z98VvHy\nKqiKvOp5AgMBAAECggEACQl2CpNoUaKdB5W43m+n2y/FHOIDTimUHuufPKdpMFza\nKxf66UZ2v3c92Dbsvf0dVTgFN9fRt+7YxCONb6R+4AQNhbk4QRMfUhD7YfrrNDln\nHmyFQSTzGsQ977AO3A6yltZBqD4+uIHdyPyGuh9IW+QOtO7PR/NkbEMHJN+5P+tE\n8j87lddu19yV1E+7Ak8Uki2cDVrekpQF3+Z/w+s/jMgjWQHXqpnVM6ygA4eC7EMg\niaLjAzE957GuDjQoenDljLGN5Yzv3rDDHxePyxGpvwY/UFEb/Q8uXl90h+jx2u/q\n3cuoLPviywtsNnMBLC4f/fecGyi8wbvIpQ1VEO2xoQKBgQDdRSo0MoobDgrMDzvu\nC/zozodsMMZ+gFtvuRjTz+doKr55ll63hLRdfUVZFjoISSjmN0mQuQVuoxTlil6c\n94fA90EpR7S03cEoYumgNy+tAkA09wDiw1ohIs/BCFfZa1CyMLJgmWSmjHygctq3\n2JdiKkxZUoOGhqQa83XIDod16QKBgQC2a2fjDH8FBBLBZ+0JX9LzifaPE0/9asSR\nMnNc/1OlyMzL33PK7y0BjLY1QzExTz4r10qoMGRLrjD7L/PYpCd0LsN4aHulR9ay\nRlQMPdr0Bj8pAG3EAMfGVM+lNkEMjtThOGwV7PN4xTdo6yZ+RVqwCMKNA6ngsern\nblfFkGGmEQKBgQCBSKxEG1N+Q1IjsLL/f5miHSobGNShjTXfrXLIL62xu2fXeviU\nmcEY7tzaFJaLyNNQz/T3zmNSJY9MHvDxHd//63fzOqZnFzqI8mI27oe4upvxVnD6\nDdJXkhN5YfqSWpWnx7QxpO6eMW+QAAuzZ6XsAXLirceTjo/L/3xOC88yIQKBgFMV\nXi6aLWwCa+xswhgn7bOAXazSlfcM3tRmzwZHQDjc2PHuJxYBk1UGWqKtpMUZm25q\nUxWBXNzfTG3LbFt6gIG5HsxDgjVIH+/4eiVNMuE7yx6IlHXWCSc6z4wmxr/KegjO\nIuRllIqoAFGn8FNIkUJl6v5A8ell/2BC8HUKCn+RAoGBAMWYlZXhdJbO7PqOi1gu\ng88beCnChJdThDGavORVYmUvXdohrgvL5Nvn3GzjVT004QRBspw9bXt4DbycXqv0\nawP3EYbcj9Cwx90Rx2WXBeybjYp5hayblEfWJ054TFoPwJkVQsyS9e02/u1bePVu\n4RoEzQ6o5hDFLdd2oUkrtoQ1\n-----END PRIVATE KEY-----\n",
+    "client_email": "thesaurusmvp@vi-thesaurus-1593169669588.iam.gserviceaccount.com",
+    "client_id": "100664921205250386446",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thesaurusmvp%40vi-thesaurus-1593169669588.iam.gserviceaccount.com"
+  }
+  
