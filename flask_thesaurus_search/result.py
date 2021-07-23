@@ -11,7 +11,10 @@ from .intersection import final_list
 
 from .google_translate_ import *
 
+final_viet = []
 for i in final_list:
     finalist = translate_text('vi', i)
-    print(finalist, end=", ")
+    final_viet.append(finalist)
+    
+print(final_viet)
 

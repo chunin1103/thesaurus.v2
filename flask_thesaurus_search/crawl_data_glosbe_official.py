@@ -1,9 +1,9 @@
 from urllib.request import urlopen
 from collections import OrderedDict
-from .input_word import word
+from .routes import key_word
 
 ini_url = "https://vi.glosbe.com/en/vi/"
-url     = ini_url + word
+url     = ini_url + key_word
 from bs4 import BeautifulSoup
 
 conn = urlopen(url)
